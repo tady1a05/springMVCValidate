@@ -6,4 +6,6 @@ First Name: ${student.firstName}
 Last Name: ${student.lastName}
 <br/>
 Age: ${student.age}
+<br/>
+Classroom: ${student.classroom}
 </html>
